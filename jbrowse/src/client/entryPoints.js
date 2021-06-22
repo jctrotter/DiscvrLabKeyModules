@@ -8,6 +8,7 @@ module.exports = {
         name: 'jbrowse',
         title: 'BROWSER',
         permission: 'read',
+        template: 'app',
         path: './src/client/JBrowse/Browser',
     }]
 };
